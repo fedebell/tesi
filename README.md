@@ -8,6 +8,8 @@ L'insieme delle istantanee è la *repository*. Per lavorare in condivisione, la 
 
 ### Usare git
 
+Prova
+
 Il ciclo tipico di utilizzo è:
 
 1. Aggiornare la repository locale (*pullare*).
